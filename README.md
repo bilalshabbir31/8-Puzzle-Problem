@@ -1,1 +1,1 @@
-# 8-Puzzle-Problem
+# 8-Puzzle-Problem Artifical Intelligence Course Assignment
